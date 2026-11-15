@@ -37,3 +37,6 @@ A responsive, retro-inspired 2D Snake Game built from the ground up using pure *
 3. Click **"Start Game"**.
 4. Use the **Arrow Keys** (⬆️ ⬇️ ⬅️ ➡️) to steer the snake.
 5. Eat the food to score points, grow longer, and set a new high score!
+
+Its deploy link is here 
+https://pankajsahu-tech.github.io/Snake-Game-Using-Javascript/
